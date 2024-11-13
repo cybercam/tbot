@@ -1,0 +1,65 @@
+{
+    "governance": {
+        "Union Public Service Commission": "UPSC",
+        "Chief Justice of India": "CJI",
+        "Vice President": "VP",
+        "Prime Minister": "PM",
+        "Member of Parliament": "MP",
+        "Legislative Assembly": "LA",
+        "Constitution of India": "COI",
+        "Supreme Court": "SC",
+        "High Court": "HC",
+        "President of India": "POI",
+        "Ministry of Home Affairs": "MHA",
+        "Reserve Bank of India": "RBI",
+        "Public Interest Litigation": "PIL",
+        "Right to Information": "RTI",
+        "Goods and Services Tax": "GST",
+        "Non-Governmental Organization": "NGO"
+    },
+    "economy": {
+        "Gross Domestic Product": "GDP",
+        "Foreign Direct Investment": "FDI",
+        "Balance of Payments": "BOP",
+        "Consumer Price Index": "CPI",
+        "Wholesale Price Index": "WPI",
+        "National Income": "NI",
+        "Public Sector Undertaking": "PSU",
+        "Small and Medium Enterprises": "SME",
+        "Foreign Institutional Investor": "FII",
+        "National Development Council": "NDC",
+        "Special Economic Zone": "SEZ"
+    },
+    "international": {
+        "United Nations": "UN",
+        "World Health Organization": "WHO",
+        "International Monetary Fund": "IMF",
+        "World Trade Organization": "WTO",
+        "South Asian Association for Regional Cooperation": "SAARC",
+        "Association of Southeast Asian Nations": "ASEAN",
+        "United Nations Security Council": "UNSC",
+        "United Nations General Assembly": "UNGA"
+    },
+    "environment": {
+        "Environmental Impact Assessment": "EIA",
+        "Coastal Regulation Zone": "CRZ",
+        "State Pollution Control Board": "SPCB",
+        "Central Pollution Control Board": "CPCB",
+        "Ministry of Environment and Forests": "MoEF",
+        "National Green Tribunal": "NGT"
+    },
+    "science": {
+        "Indian Space Research Organisation": "ISRO",
+        "Defence Research and Development Organisation": "DRDO",
+        "Department of Science and Technology": "DST",
+        "Council of Scientific and Industrial Research": "CSIR",
+        "Indian Council of Medical Research": "ICMR"
+    },
+    "schemes": {
+        "Mahatma Gandhi National Rural Employment Guarantee Act": "MGNREGA",
+        "Pradhan Mantri Jan Dhan Yojana": "PMJDY",
+        "National Rural Health Mission": "NRHM",
+        "Integrated Child Development Services": "ICDS",
+        "Public Distribution System": "PDS"
+    }
+}
