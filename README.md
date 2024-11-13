@@ -20,8 +20,8 @@ A Telegram bot designed specifically for UPSC exam preparation, featuring automa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/upsc-quiz-bot.git
-cd upsc-quiz-bot
+git clone https://github.com/cybercam/tbot.git
+cd tbot
 ```
 
 2. Install required packages:
